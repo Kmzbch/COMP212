@@ -1,0 +1,13 @@
+C:\Users\Kei\source\repos\CodingPractice\20210103paiza\bin\Debug\netcoreapp3.1\20210103paiza.exe
+C:\Users\Kei\source\repos\CodingPractice\20210103paiza\bin\Debug\netcoreapp3.1\20210103paiza.deps.json
+C:\Users\Kei\source\repos\CodingPractice\20210103paiza\bin\Debug\netcoreapp3.1\20210103paiza.runtimeconfig.json
+C:\Users\Kei\source\repos\CodingPractice\20210103paiza\bin\Debug\netcoreapp3.1\20210103paiza.runtimeconfig.dev.json
+C:\Users\Kei\source\repos\CodingPractice\20210103paiza\bin\Debug\netcoreapp3.1\20210103paiza.dll
+C:\Users\Kei\source\repos\CodingPractice\20210103paiza\bin\Debug\netcoreapp3.1\20210103paiza.pdb
+C:\Users\Kei\source\repos\CodingPractice\20210103paiza\obj\Debug\netcoreapp3.1\20210103paiza.csprojAssemblyReference.cache
+C:\Users\Kei\source\repos\CodingPractice\20210103paiza\obj\Debug\netcoreapp3.1\20210103paiza.AssemblyInfoInputs.cache
+C:\Users\Kei\source\repos\CodingPractice\20210103paiza\obj\Debug\netcoreapp3.1\20210103paiza.AssemblyInfo.cs
+C:\Users\Kei\source\repos\CodingPractice\20210103paiza\obj\Debug\netcoreapp3.1\20210103paiza.csproj.CoreCompileInputs.cache
+C:\Users\Kei\source\repos\CodingPractice\20210103paiza\obj\Debug\netcoreapp3.1\20210103paiza.dll
+C:\Users\Kei\source\repos\CodingPractice\20210103paiza\obj\Debug\netcoreapp3.1\20210103paiza.pdb
+C:\Users\Kei\source\repos\CodingPractice\20210103paiza\obj\Debug\netcoreapp3.1\20210103paiza.genruntimeconfig.cache

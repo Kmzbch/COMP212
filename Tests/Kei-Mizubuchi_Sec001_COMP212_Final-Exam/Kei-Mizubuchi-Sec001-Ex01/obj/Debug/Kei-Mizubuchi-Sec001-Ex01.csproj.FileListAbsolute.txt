@@ -1,0 +1,7 @@
+C:\Users\Kei\source\repos\Kei-Mizubuchi_Sec001_COMP212_Final-Exam\Kei-Mizubuchi-Sec001-Ex01\obj\Debug\Kei-Mizubuchi-Sec001-Ex01.csprojAssemblyReference.cache
+C:\Users\Kei\source\repos\Kei-Mizubuchi_Sec001_COMP212_Final-Exam\Kei-Mizubuchi-Sec001-Ex01\obj\Debug\Kei-Mizubuchi-Sec001-Ex01.csproj.CoreCompileInputs.cache
+C:\Users\Kei\source\repos\Kei-Mizubuchi_Sec001_COMP212_Final-Exam\Kei-Mizubuchi-Sec001-Ex01\bin\Debug\Kei-Mizubuchi-Sec001-Ex01.exe.config
+C:\Users\Kei\source\repos\Kei-Mizubuchi_Sec001_COMP212_Final-Exam\Kei-Mizubuchi-Sec001-Ex01\bin\Debug\Kei-Mizubuchi-Sec001-Ex01.exe
+C:\Users\Kei\source\repos\Kei-Mizubuchi_Sec001_COMP212_Final-Exam\Kei-Mizubuchi-Sec001-Ex01\bin\Debug\Kei-Mizubuchi-Sec001-Ex01.pdb
+C:\Users\Kei\source\repos\Kei-Mizubuchi_Sec001_COMP212_Final-Exam\Kei-Mizubuchi-Sec001-Ex01\obj\Debug\Kei-Mizubuchi-Sec001-Ex01.exe
+C:\Users\Kei\source\repos\Kei-Mizubuchi_Sec001_COMP212_Final-Exam\Kei-Mizubuchi-Sec001-Ex01\obj\Debug\Kei-Mizubuchi-Sec001-Ex01.pdb

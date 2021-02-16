@@ -1,0 +1,13 @@
+C:\Users\Kei\source\repos\300936630(mizubuchi)_ASS2\LoginUserControl\obj\Debug\LoginUserControl.csprojAssemblyReference.cache
+C:\Users\Kei\source\repos\300936630(mizubuchi)_ASS2\LoginUserControl\obj\Debug\LoginUserControl.g.cs
+C:\Users\Kei\source\repos\300936630(mizubuchi)_ASS2\LoginUserControl\obj\Debug\LoginUserControl_MarkupCompile.cache
+C:\Users\Kei\source\repos\300936630(mizubuchi)_ASS2\LoginUserControl\obj\Debug\LoginUserControl_MarkupCompile.lref
+C:\Users\Kei\source\repos\300936630(mizubuchi)_ASS2\LoginUserControl\bin\Debug\LoginUserControl.dll
+C:\Users\Kei\source\repos\300936630(mizubuchi)_ASS2\LoginUserControl\bin\Debug\LoginUserControl.pdb
+C:\Users\Kei\source\repos\300936630(mizubuchi)_ASS2\LoginUserControl\obj\Debug\LoginUserControl.baml
+C:\Users\Kei\source\repos\300936630(mizubuchi)_ASS2\LoginUserControl\obj\Debug\LoginUserControl.g.resources
+C:\Users\Kei\source\repos\300936630(mizubuchi)_ASS2\LoginUserControl\obj\Debug\LoginUserControl.Properties.Resources.resources
+C:\Users\Kei\source\repos\300936630(mizubuchi)_ASS2\LoginUserControl\obj\Debug\LoginUserControl.csproj.GenerateResource.cache
+C:\Users\Kei\source\repos\300936630(mizubuchi)_ASS2\LoginUserControl\obj\Debug\LoginUserControl.csproj.CoreCompileInputs.cache
+C:\Users\Kei\source\repos\300936630(mizubuchi)_ASS2\LoginUserControl\obj\Debug\LoginUserControl.dll
+C:\Users\Kei\source\repos\300936630(mizubuchi)_ASS2\LoginUserControl\obj\Debug\LoginUserControl.pdb

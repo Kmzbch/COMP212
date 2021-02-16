@@ -1,0 +1,15 @@
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DemoDataSourceWithDatabinding\bin\Debug\DemoDataSourceWithDatabinding.exe.config
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DemoDataSourceWithDatabinding\bin\Debug\DemoDataSourceWithDatabinding.exe
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DemoDataSourceWithDatabinding\bin\Debug\DemoDataSourceWithDatabinding.pdb
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DemoDataSourceWithDatabinding\obj\Debug\MainWindow.g.cs
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DemoDataSourceWithDatabinding\obj\Debug\App.g.cs
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DemoDataSourceWithDatabinding\obj\Debug\DemoDataSourceWithDatabinding_MarkupCompile.cache
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DemoDataSourceWithDatabinding\obj\Debug\DemoDataSourceWithDatabinding_MarkupCompile.lref
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DemoDataSourceWithDatabinding\obj\Debug\MainWindow.baml
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DemoDataSourceWithDatabinding\obj\Debug\DemoDataSourceWithDatabinding.g.resources
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DemoDataSourceWithDatabinding\obj\Debug\DemoDataSourceWithDatabinding.Properties.Resources.resources
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DemoDataSourceWithDatabinding\obj\Debug\DemoDataSourceWithDatabinding.csproj.GenerateResource.cache
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DemoDataSourceWithDatabinding\obj\Debug\DemoDataSourceWithDatabinding.csproj.CoreCompileInputs.cache
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DemoDataSourceWithDatabinding\obj\Debug\DemoDataSourceWithDatabinding.exe
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DemoDataSourceWithDatabinding\obj\Debug\DemoDataSourceWithDatabinding.pdb
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DemoDataSourceWithDatabinding\obj\Debug\DemoDataSourceWithDatabinding.csprojAssemblyReference.cache

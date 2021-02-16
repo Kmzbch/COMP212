@@ -1,0 +1,14 @@
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DatabindingWithDataGrid\bin\Debug\DatabindingWithDataGrid.exe.config
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DatabindingWithDataGrid\bin\Debug\DatabindingWithDataGrid.exe
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DatabindingWithDataGrid\bin\Debug\DatabindingWithDataGrid.pdb
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DatabindingWithDataGrid\obj\Debug\MainWindow.g.cs
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DatabindingWithDataGrid\obj\Debug\App.g.cs
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DatabindingWithDataGrid\obj\Debug\DatabindingWithDataGrid_MarkupCompile.cache
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DatabindingWithDataGrid\obj\Debug\DatabindingWithDataGrid_MarkupCompile.lref
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DatabindingWithDataGrid\obj\Debug\MainWindow.baml
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DatabindingWithDataGrid\obj\Debug\DatabindingWithDataGrid.g.resources
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DatabindingWithDataGrid\obj\Debug\DatabindingWithDataGrid.Properties.Resources.resources
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DatabindingWithDataGrid\obj\Debug\DatabindingWithDataGrid.csproj.GenerateResource.cache
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DatabindingWithDataGrid\obj\Debug\DatabindingWithDataGrid.csproj.CoreCompileInputs.cache
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DatabindingWithDataGrid\obj\Debug\DatabindingWithDataGrid.exe
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DatabindingWithDataGrid\obj\Debug\DatabindingWithDataGrid.pdb

@@ -1,0 +1,13 @@
+C:\Users\Kei\source\repos\CodingPractice\20200303AlphaLabs\bin\Debug\netcoreapp3.1\20200303AlphaLabs.exe
+C:\Users\Kei\source\repos\CodingPractice\20200303AlphaLabs\bin\Debug\netcoreapp3.1\20200303AlphaLabs.deps.json
+C:\Users\Kei\source\repos\CodingPractice\20200303AlphaLabs\bin\Debug\netcoreapp3.1\20200303AlphaLabs.runtimeconfig.json
+C:\Users\Kei\source\repos\CodingPractice\20200303AlphaLabs\bin\Debug\netcoreapp3.1\20200303AlphaLabs.runtimeconfig.dev.json
+C:\Users\Kei\source\repos\CodingPractice\20200303AlphaLabs\bin\Debug\netcoreapp3.1\20200303AlphaLabs.dll
+C:\Users\Kei\source\repos\CodingPractice\20200303AlphaLabs\bin\Debug\netcoreapp3.1\20200303AlphaLabs.pdb
+C:\Users\Kei\source\repos\CodingPractice\20200303AlphaLabs\obj\Debug\netcoreapp3.1\20200303AlphaLabs.csprojAssemblyReference.cache
+C:\Users\Kei\source\repos\CodingPractice\20200303AlphaLabs\obj\Debug\netcoreapp3.1\20200303AlphaLabs.AssemblyInfoInputs.cache
+C:\Users\Kei\source\repos\CodingPractice\20200303AlphaLabs\obj\Debug\netcoreapp3.1\20200303AlphaLabs.AssemblyInfo.cs
+C:\Users\Kei\source\repos\CodingPractice\20200303AlphaLabs\obj\Debug\netcoreapp3.1\20200303AlphaLabs.csproj.CoreCompileInputs.cache
+C:\Users\Kei\source\repos\CodingPractice\20200303AlphaLabs\obj\Debug\netcoreapp3.1\20200303AlphaLabs.dll
+C:\Users\Kei\source\repos\CodingPractice\20200303AlphaLabs\obj\Debug\netcoreapp3.1\20200303AlphaLabs.pdb
+C:\Users\Kei\source\repos\CodingPractice\20200303AlphaLabs\obj\Debug\netcoreapp3.1\20200303AlphaLabs.genruntimeconfig.cache

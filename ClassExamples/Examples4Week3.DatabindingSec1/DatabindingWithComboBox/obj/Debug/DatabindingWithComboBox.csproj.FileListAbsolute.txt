@@ -1,0 +1,14 @@
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DatabindingWithComboBox\bin\Debug\DatabindingWithComboBox.exe.config
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DatabindingWithComboBox\bin\Debug\DatabindingWithComboBox.exe
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DatabindingWithComboBox\bin\Debug\DatabindingWithComboBox.pdb
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DatabindingWithComboBox\obj\Debug\MainWindow.g.cs
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DatabindingWithComboBox\obj\Debug\App.g.cs
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DatabindingWithComboBox\obj\Debug\DatabindingWithComboBox_MarkupCompile.cache
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DatabindingWithComboBox\obj\Debug\DatabindingWithComboBox_MarkupCompile.lref
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DatabindingWithComboBox\obj\Debug\MainWindow.baml
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DatabindingWithComboBox\obj\Debug\DatabindingWithComboBox.g.resources
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DatabindingWithComboBox\obj\Debug\DatabindingWithComboBox.Properties.Resources.resources
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DatabindingWithComboBox\obj\Debug\DatabindingWithComboBox.csproj.GenerateResource.cache
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DatabindingWithComboBox\obj\Debug\DatabindingWithComboBox.csproj.CoreCompileInputs.cache
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DatabindingWithComboBox\obj\Debug\DatabindingWithComboBox.exe
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\DatabindingWithComboBox\obj\Debug\DatabindingWithComboBox.pdb

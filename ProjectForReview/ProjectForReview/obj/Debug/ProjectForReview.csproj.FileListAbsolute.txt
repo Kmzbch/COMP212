@@ -1,0 +1,7 @@
+C:\Users\Kei\source\repos\ProjectForReview\ProjectForReview\bin\Debug\ProjectForReview.exe.config
+C:\Users\Kei\source\repos\ProjectForReview\ProjectForReview\bin\Debug\ProjectForReview.exe
+C:\Users\Kei\source\repos\ProjectForReview\ProjectForReview\bin\Debug\ProjectForReview.pdb
+C:\Users\Kei\source\repos\ProjectForReview\ProjectForReview\obj\Debug\ProjectForReview.csprojAssemblyReference.cache
+C:\Users\Kei\source\repos\ProjectForReview\ProjectForReview\obj\Debug\ProjectForReview.csproj.CoreCompileInputs.cache
+C:\Users\Kei\source\repos\ProjectForReview\ProjectForReview\obj\Debug\ProjectForReview.exe
+C:\Users\Kei\source\repos\ProjectForReview\ProjectForReview\obj\Debug\ProjectForReview.pdb

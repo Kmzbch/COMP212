@@ -1,0 +1,6 @@
+C:\Users\Kei\source\repos\ExtensionMethodsExamples2\IntExtensionMethods\bin\Debug\IntExtensionMethods.exe.config
+C:\Users\Kei\source\repos\ExtensionMethodsExamples2\IntExtensionMethods\bin\Debug\IntExtensionMethods.exe
+C:\Users\Kei\source\repos\ExtensionMethodsExamples2\IntExtensionMethods\bin\Debug\IntExtensionMethods.pdb
+C:\Users\Kei\source\repos\ExtensionMethodsExamples2\IntExtensionMethods\obj\Debug\IntExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\Kei\source\repos\ExtensionMethodsExamples2\IntExtensionMethods\obj\Debug\IntExtensionMethods.exe
+C:\Users\Kei\source\repos\ExtensionMethodsExamples2\IntExtensionMethods\obj\Debug\IntExtensionMethods.pdb

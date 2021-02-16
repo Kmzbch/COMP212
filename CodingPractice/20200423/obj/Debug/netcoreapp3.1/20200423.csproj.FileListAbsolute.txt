@@ -1,0 +1,13 @@
+C:\Users\Kei\source\repos\CodingPractice\20200423\bin\Debug\netcoreapp3.1\20200423.exe
+C:\Users\Kei\source\repos\CodingPractice\20200423\bin\Debug\netcoreapp3.1\20200423.deps.json
+C:\Users\Kei\source\repos\CodingPractice\20200423\bin\Debug\netcoreapp3.1\20200423.runtimeconfig.json
+C:\Users\Kei\source\repos\CodingPractice\20200423\bin\Debug\netcoreapp3.1\20200423.runtimeconfig.dev.json
+C:\Users\Kei\source\repos\CodingPractice\20200423\bin\Debug\netcoreapp3.1\20200423.dll
+C:\Users\Kei\source\repos\CodingPractice\20200423\bin\Debug\netcoreapp3.1\20200423.pdb
+C:\Users\Kei\source\repos\CodingPractice\20200423\obj\Debug\netcoreapp3.1\20200423.csprojAssemblyReference.cache
+C:\Users\Kei\source\repos\CodingPractice\20200423\obj\Debug\netcoreapp3.1\20200423.AssemblyInfoInputs.cache
+C:\Users\Kei\source\repos\CodingPractice\20200423\obj\Debug\netcoreapp3.1\20200423.AssemblyInfo.cs
+C:\Users\Kei\source\repos\CodingPractice\20200423\obj\Debug\netcoreapp3.1\20200423.csproj.CoreCompileInputs.cache
+C:\Users\Kei\source\repos\CodingPractice\20200423\obj\Debug\netcoreapp3.1\20200423.dll
+C:\Users\Kei\source\repos\CodingPractice\20200423\obj\Debug\netcoreapp3.1\20200423.pdb
+C:\Users\Kei\source\repos\CodingPractice\20200423\obj\Debug\netcoreapp3.1\20200423.genruntimeconfig.cache

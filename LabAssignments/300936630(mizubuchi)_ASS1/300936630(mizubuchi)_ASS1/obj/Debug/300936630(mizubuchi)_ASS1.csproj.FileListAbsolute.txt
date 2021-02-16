@@ -1,0 +1,12 @@
+C:\Users\Kei\source\repos\300936630(mizubuchi)_ASS1\300936630(mizubuchi)_ASS1\bin\Debug\300936630(mizubuchi)_ASS1.exe.config
+C:\Users\Kei\source\repos\300936630(mizubuchi)_ASS1\300936630(mizubuchi)_ASS1\bin\Debug\300936630(mizubuchi)_ASS1.exe
+C:\Users\Kei\source\repos\300936630(mizubuchi)_ASS1\300936630(mizubuchi)_ASS1\bin\Debug\300936630(mizubuchi)_ASS1.pdb
+C:\Users\Kei\source\repos\300936630(mizubuchi)_ASS1\300936630(mizubuchi)_ASS1\obj\Debug\300936630(mizubuchi)_ASS1.csprojAssemblyReference.cache
+C:\Users\Kei\source\repos\300936630(mizubuchi)_ASS1\300936630(mizubuchi)_ASS1\obj\Debug\_300936630_mizubuchi__ASS1.Properties.Resources.resources
+C:\Users\Kei\source\repos\300936630(mizubuchi)_ASS1\300936630(mizubuchi)_ASS1\obj\Debug\300936630(mizubuchi)_ASS1.csproj.GenerateResource.cache
+C:\Users\Kei\source\repos\300936630(mizubuchi)_ASS1\300936630(mizubuchi)_ASS1\obj\Debug\300936630(mizubuchi)_ASS1.csproj.CoreCompileInputs.cache
+C:\Users\Kei\source\repos\300936630(mizubuchi)_ASS1\300936630(mizubuchi)_ASS1\obj\Debug\300936630(mizubuchi)_ASS1.exe
+C:\Users\Kei\source\repos\300936630(mizubuchi)_ASS1\300936630(mizubuchi)_ASS1\obj\Debug\300936630(mizubuchi)_ASS1.pdb
+C:\Users\Kei\source\repos\300936630(mizubuchi)_ASS1\300936630(mizubuchi)_ASS1\obj\Debug\_300936630_mizubuchi__ASS1.NotificationManagerForm.resources
+C:\Users\Kei\source\repos\300936630(mizubuchi)_ASS1\300936630(mizubuchi)_ASS1\obj\Debug\_300936630_mizubuchi__ASS1.PublishNotificationForm.resources
+C:\Users\Kei\source\repos\300936630(mizubuchi)_ASS1\300936630(mizubuchi)_ASS1\obj\Debug\_300936630_mizubuchi__ASS1.SubscribeForm.resources

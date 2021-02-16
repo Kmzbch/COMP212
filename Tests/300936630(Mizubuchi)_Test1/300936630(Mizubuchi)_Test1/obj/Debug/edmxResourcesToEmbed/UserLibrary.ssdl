@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AMSModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Account">
+    <Key>
+      <PropertyRef Name="AccountNo" />
+    </Key>
+    <Property Name="AccountNo" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="ClientID" Type="varchar" MaxLength="16" Nullable="false" />
+    <Property Name="AccountType" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Balance" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Client">
+    <Key>
+      <PropertyRef Name="AccessID" />
+    </Key>
+    <Property Name="AccessID" Type="varchar" MaxLength="16" Nullable="false" />
+    <Property Name="Firstname" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="Lastname" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="Middlename" Type="varchar" MaxLength="30" />
+    <Property Name="Postaladdr" Type="varchar" MaxLength="100" />
+    <Property Name="Phone" Type="varchar" MaxLength="13" />
+  </EntityType>
+  <EntityType Name="Login">
+    <Key>
+      <PropertyRef Name="AccessID" />
+    </Key>
+    <Property Name="AccessID" Type="varchar" MaxLength="16" Nullable="false" />
+    <Property Name="Password" Type="varchar" MaxLength="12" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TransactionHistory">
+    <Key>
+      <PropertyRef Name="AccountNo" />
+      <PropertyRef Name="TransactionTime" />
+    </Key>
+    <Property Name="AccountNo" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="Amount" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="TransactionTime" Type="datetime" Nullable="false" />
+    <Property Name="BranchID" Type="int" />
+  </EntityType>
+  <Association Name="FK_Account_Client">
+    <End Role="Client" Type="Self.Client" Multiplicity="1" />
+    <End Role="Account" Type="Self.Account" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Client">
+        <PropertyRef Name="AccessID" />
+      </Principal>
+      <Dependent Role="Account">
+        <PropertyRef Name="ClientID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Login_Client">
+    <End Role="Client" Type="Self.Client" Multiplicity="1" />
+    <End Role="Login" Type="Self.Login" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Client">
+        <PropertyRef Name="AccessID" />
+      </Principal>
+      <Dependent Role="Login">
+        <PropertyRef Name="AccessID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TransactionHistory_Account">
+    <End Role="Account" Type="Self.Account" Multiplicity="1" />
+    <End Role="TransactionHistory" Type="Self.TransactionHistory" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Account">
+        <PropertyRef Name="AccountNo" />
+      </Principal>
+      <Dependent Role="TransactionHistory">
+        <PropertyRef Name="AccountNo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="AMSModelStoreContainer">
+    <EntitySet Name="Account" EntityType="Self.Account" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Client" EntityType="Self.Client" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Login" EntityType="Self.Login" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TransactionHistory" EntityType="Self.TransactionHistory" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Account_Client" Association="Self.FK_Account_Client">
+      <End Role="Client" EntitySet="Client" />
+      <End Role="Account" EntitySet="Account" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Login_Client" Association="Self.FK_Login_Client">
+      <End Role="Client" EntitySet="Client" />
+      <End Role="Login" EntitySet="Login" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TransactionHistory_Account" Association="Self.FK_TransactionHistory_Account">
+      <End Role="Account" EntitySet="Account" />
+      <End Role="TransactionHistory" EntitySet="TransactionHistory" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,14 @@
+C:\Users\Kei\source\repos\300936630(Mizubuchi)_ASS4\Question2\bin\Debug\Question2.exe.config
+C:\Users\Kei\source\repos\300936630(Mizubuchi)_ASS4\Question2\bin\Debug\Question2.exe
+C:\Users\Kei\source\repos\300936630(Mizubuchi)_ASS4\Question2\bin\Debug\Question2.pdb
+C:\Users\Kei\source\repos\300936630(Mizubuchi)_ASS4\Question2\obj\Debug\Question2.csproj.CoreCompileInputs.cache
+C:\Users\Kei\source\repos\300936630(Mizubuchi)_ASS4\Question2\obj\Debug\Question2.exe
+C:\Users\Kei\source\repos\300936630(Mizubuchi)_ASS4\Question2\obj\Debug\Question2.pdb
+C:\Users\Kei\source\repos\300936630(Mizubuchi)_ASS4\Question2\obj\Debug\Question2.csprojAssemblyReference.cache
+C:\Users\Kei\source\repos\COMP212\LabAssignments\300936630(Mizubuchi)_ASS4\Question2\bin\Debug\Question2.exe.config
+C:\Users\Kei\source\repos\COMP212\LabAssignments\300936630(Mizubuchi)_ASS4\Question2\bin\Debug\Question2.exe
+C:\Users\Kei\source\repos\COMP212\LabAssignments\300936630(Mizubuchi)_ASS4\Question2\bin\Debug\Question2.pdb
+C:\Users\Kei\source\repos\COMP212\LabAssignments\300936630(Mizubuchi)_ASS4\Question2\obj\Debug\Question2.csprojAssemblyReference.cache
+C:\Users\Kei\source\repos\COMP212\LabAssignments\300936630(Mizubuchi)_ASS4\Question2\obj\Debug\Question2.csproj.CoreCompileInputs.cache
+C:\Users\Kei\source\repos\COMP212\LabAssignments\300936630(Mizubuchi)_ASS4\Question2\obj\Debug\Question2.exe
+C:\Users\Kei\source\repos\COMP212\LabAssignments\300936630(Mizubuchi)_ASS4\Question2\obj\Debug\Question2.pdb

@@ -1,0 +1,7 @@
+C:\Users\Kei\source\repos\ExtensionMethodsExamples\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+C:\Users\Kei\source\repos\ExtensionMethodsExamples\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+C:\Users\Kei\source\repos\ExtensionMethodsExamples\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+C:\Users\Kei\source\repos\ExtensionMethodsExamples\ExtensionMethods\obj\Debug\ExtensionMethods.csprojAssemblyReference.cache
+C:\Users\Kei\source\repos\ExtensionMethodsExamples\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\Kei\source\repos\ExtensionMethodsExamples\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+C:\Users\Kei\source\repos\ExtensionMethodsExamples\ExtensionMethods\obj\Debug\ExtensionMethods.pdb

@@ -1,0 +1,15 @@
+C:\Users\Kei\source\repos\Kei-Mizubuchi_Sec001_COMP212_Final-Exam\Kei-Mizubuchi_Sec001-Ex02\bin\Debug\Kei-Mizubuchi_Sec001-Ex02.exe.config
+C:\Users\Kei\source\repos\Kei-Mizubuchi_Sec001_COMP212_Final-Exam\Kei-Mizubuchi_Sec001-Ex02\bin\Debug\Kei-Mizubuchi_Sec001-Ex02.exe
+C:\Users\Kei\source\repos\Kei-Mizubuchi_Sec001_COMP212_Final-Exam\Kei-Mizubuchi_Sec001-Ex02\bin\Debug\Kei-Mizubuchi_Sec001-Ex02.pdb
+C:\Users\Kei\source\repos\Kei-Mizubuchi_Sec001_COMP212_Final-Exam\Kei-Mizubuchi_Sec001-Ex02\obj\Debug\Kei-Mizubuchi_Sec001-Ex02.csprojAssemblyReference.cache
+C:\Users\Kei\source\repos\Kei-Mizubuchi_Sec001_COMP212_Final-Exam\Kei-Mizubuchi_Sec001-Ex02\obj\Debug\MainWindow.g.cs
+C:\Users\Kei\source\repos\Kei-Mizubuchi_Sec001_COMP212_Final-Exam\Kei-Mizubuchi_Sec001-Ex02\obj\Debug\App.g.cs
+C:\Users\Kei\source\repos\Kei-Mizubuchi_Sec001_COMP212_Final-Exam\Kei-Mizubuchi_Sec001-Ex02\obj\Debug\Kei-Mizubuchi_Sec001-Ex02_MarkupCompile.cache
+C:\Users\Kei\source\repos\Kei-Mizubuchi_Sec001_COMP212_Final-Exam\Kei-Mizubuchi_Sec001-Ex02\obj\Debug\Kei-Mizubuchi_Sec001-Ex02_MarkupCompile.lref
+C:\Users\Kei\source\repos\Kei-Mizubuchi_Sec001_COMP212_Final-Exam\Kei-Mizubuchi_Sec001-Ex02\obj\Debug\MainWindow.baml
+C:\Users\Kei\source\repos\Kei-Mizubuchi_Sec001_COMP212_Final-Exam\Kei-Mizubuchi_Sec001-Ex02\obj\Debug\Kei-Mizubuchi_Sec001-Ex02.g.resources
+C:\Users\Kei\source\repos\Kei-Mizubuchi_Sec001_COMP212_Final-Exam\Kei-Mizubuchi_Sec001-Ex02\obj\Debug\Kei_Mizubuchi_Sec001_Ex02.Properties.Resources.resources
+C:\Users\Kei\source\repos\Kei-Mizubuchi_Sec001_COMP212_Final-Exam\Kei-Mizubuchi_Sec001-Ex02\obj\Debug\Kei-Mizubuchi_Sec001-Ex02.csproj.GenerateResource.cache
+C:\Users\Kei\source\repos\Kei-Mizubuchi_Sec001_COMP212_Final-Exam\Kei-Mizubuchi_Sec001-Ex02\obj\Debug\Kei-Mizubuchi_Sec001-Ex02.csproj.CoreCompileInputs.cache
+C:\Users\Kei\source\repos\Kei-Mizubuchi_Sec001_COMP212_Final-Exam\Kei-Mizubuchi_Sec001-Ex02\obj\Debug\Kei-Mizubuchi_Sec001-Ex02.exe
+C:\Users\Kei\source\repos\Kei-Mizubuchi_Sec001_COMP212_Final-Exam\Kei-Mizubuchi_Sec001-Ex02\obj\Debug\Kei-Mizubuchi_Sec001-Ex02.pdb

@@ -1,0 +1,14 @@
+C:\Users\Kei\source\repos\Example4Week7-001\Example4Week7-001.BookLibrary\bin\Debug\Books.mdf
+C:\Users\Kei\source\repos\Example4Week7-001\Example4Week7-001.BookLibrary\bin\Debug\Books_log.ldf
+C:\Users\Kei\source\repos\Example4Week7-001\Example4Week7-001.BookLibrary\bin\Debug\EntityFramework.dll
+C:\Users\Kei\source\repos\Example4Week7-001\Example4Week7-001.BookLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kei\source\repos\Example4Week7-001\Example4Week7-001.BookLibrary\bin\Debug\EntityFramework.xml
+C:\Users\Kei\source\repos\Example4Week7-001\Example4Week7-001.BookLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kei\source\repos\Example4Week7-001\Example4Week7-001.BookLibrary\obj\Debug\Example4Week7-001.BookLibrary.csprojAssemblyReference.cache
+C:\Users\Kei\source\repos\Example4Week7-001\Example4Week7-001.BookLibrary\obj\Debug\Example4Week7-001.BookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Kei\source\repos\Example4Week7-001\Example4Week7-001.BookLibrary\obj\Debug\Example4Week7-001.BookLibrary.csproj.CopyComplete
+C:\Users\Kei\source\repos\Example4Week7-001\Example4Week7-001.BookLibrary\obj\Debug\Example4Week7-001.BookLibrary.dll
+C:\Users\Kei\source\repos\Example4Week7-001\Example4Week7-001.BookLibrary\obj\Debug\Example4Week7-001.BookLibrary.pdb
+C:\Users\Kei\source\repos\Example4Week7-001\Example4Week7-001.BookLibrary\bin\Debug\Example4Week7-001.BookLibrary.dll.config
+C:\Users\Kei\source\repos\Example4Week7-001\Example4Week7-001.BookLibrary\bin\Debug\Example4Week7-001.BookLibrary.dll
+C:\Users\Kei\source\repos\Example4Week7-001\Example4Week7-001.BookLibrary\bin\Debug\Example4Week7-001.BookLibrary.pdb

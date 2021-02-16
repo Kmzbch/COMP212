@@ -1,0 +1,12 @@
+C:\Users\Kei\source\repos\CodingPractice\20210115Upchain\bin\Debug\netcoreapp3.1\20210115Upchain.exe
+C:\Users\Kei\source\repos\CodingPractice\20210115Upchain\bin\Debug\netcoreapp3.1\20210115Upchain.deps.json
+C:\Users\Kei\source\repos\CodingPractice\20210115Upchain\bin\Debug\netcoreapp3.1\20210115Upchain.runtimeconfig.json
+C:\Users\Kei\source\repos\CodingPractice\20210115Upchain\bin\Debug\netcoreapp3.1\20210115Upchain.runtimeconfig.dev.json
+C:\Users\Kei\source\repos\CodingPractice\20210115Upchain\bin\Debug\netcoreapp3.1\20210115Upchain.dll
+C:\Users\Kei\source\repos\CodingPractice\20210115Upchain\bin\Debug\netcoreapp3.1\20210115Upchain.pdb
+C:\Users\Kei\source\repos\CodingPractice\20210115Upchain\obj\Debug\netcoreapp3.1\20210115Upchain.AssemblyInfoInputs.cache
+C:\Users\Kei\source\repos\CodingPractice\20210115Upchain\obj\Debug\netcoreapp3.1\20210115Upchain.AssemblyInfo.cs
+C:\Users\Kei\source\repos\CodingPractice\20210115Upchain\obj\Debug\netcoreapp3.1\20210115Upchain.csproj.CoreCompileInputs.cache
+C:\Users\Kei\source\repos\CodingPractice\20210115Upchain\obj\Debug\netcoreapp3.1\20210115Upchain.dll
+C:\Users\Kei\source\repos\CodingPractice\20210115Upchain\obj\Debug\netcoreapp3.1\20210115Upchain.pdb
+C:\Users\Kei\source\repos\CodingPractice\20210115Upchain\obj\Debug\netcoreapp3.1\20210115Upchain.genruntimeconfig.cache

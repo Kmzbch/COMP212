@@ -1,0 +1,12 @@
+C:\Users\Kei\source\repos\CodingPractice\20210103\bin\Debug\netcoreapp3.1\20210103.exe
+C:\Users\Kei\source\repos\CodingPractice\20210103\bin\Debug\netcoreapp3.1\20210103.deps.json
+C:\Users\Kei\source\repos\CodingPractice\20210103\bin\Debug\netcoreapp3.1\20210103.runtimeconfig.json
+C:\Users\Kei\source\repos\CodingPractice\20210103\bin\Debug\netcoreapp3.1\20210103.runtimeconfig.dev.json
+C:\Users\Kei\source\repos\CodingPractice\20210103\bin\Debug\netcoreapp3.1\20210103.dll
+C:\Users\Kei\source\repos\CodingPractice\20210103\bin\Debug\netcoreapp3.1\20210103.pdb
+C:\Users\Kei\source\repos\CodingPractice\20210103\obj\Debug\netcoreapp3.1\20210103.AssemblyInfoInputs.cache
+C:\Users\Kei\source\repos\CodingPractice\20210103\obj\Debug\netcoreapp3.1\20210103.AssemblyInfo.cs
+C:\Users\Kei\source\repos\CodingPractice\20210103\obj\Debug\netcoreapp3.1\20210103.csproj.CoreCompileInputs.cache
+C:\Users\Kei\source\repos\CodingPractice\20210103\obj\Debug\netcoreapp3.1\20210103.dll
+C:\Users\Kei\source\repos\CodingPractice\20210103\obj\Debug\netcoreapp3.1\20210103.pdb
+C:\Users\Kei\source\repos\CodingPractice\20210103\obj\Debug\netcoreapp3.1\20210103.genruntimeconfig.cache

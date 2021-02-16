@@ -1,0 +1,29 @@
+﻿<Window x:Class="Examples4Week3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Examples4Week3"
+        mc:Ignorable="d"
+        Title="Demo Data Binding"
+        Height="350"
+        Width="500">
+    <StackPanel TextElement.FontSize="16">
+        <Label Content="Message"
+               Margin="20" />
+        <TextBox x:Name="txtBoxMessage" 
+            Height="30"
+                 TextWrapping="Wrap"
+                 Text="{Binding Path=Text, ElementName=txtBoxValue}"
+                 Margin="20" />
+        <Label Content="Value"
+               Margin="20" />
+        <TextBox x:Name="txtBoxValue"
+                 Height="30"
+                 TextWrapping="Wrap"
+                 Text="{Binding Path=Text, ElementName=txtBoxMessage}"
+                 Margin="20"/>
+
+
+    </StackPanel>
+</Window>

@@ -1,0 +1,6 @@
+C:\Users\Kei\source\repos\Kei-Mizubuchi_Sec001_COMP212_Final-Exam\Kei-Mizubuchi-Sec001-Ex03\bin\Debug\Kei-Mizubuchi-Sec001-Ex03.exe.config
+C:\Users\Kei\source\repos\Kei-Mizubuchi_Sec001_COMP212_Final-Exam\Kei-Mizubuchi-Sec001-Ex03\bin\Debug\Kei-Mizubuchi-Sec001-Ex03.exe
+C:\Users\Kei\source\repos\Kei-Mizubuchi_Sec001_COMP212_Final-Exam\Kei-Mizubuchi-Sec001-Ex03\bin\Debug\Kei-Mizubuchi-Sec001-Ex03.pdb
+C:\Users\Kei\source\repos\Kei-Mizubuchi_Sec001_COMP212_Final-Exam\Kei-Mizubuchi-Sec001-Ex03\obj\Debug\Kei-Mizubuchi-Sec001-Ex03.csproj.CoreCompileInputs.cache
+C:\Users\Kei\source\repos\Kei-Mizubuchi_Sec001_COMP212_Final-Exam\Kei-Mizubuchi-Sec001-Ex03\obj\Debug\Kei-Mizubuchi-Sec001-Ex03.exe
+C:\Users\Kei\source\repos\Kei-Mizubuchi_Sec001_COMP212_Final-Exam\Kei-Mizubuchi-Sec001-Ex03\obj\Debug\Kei-Mizubuchi-Sec001-Ex03.pdb

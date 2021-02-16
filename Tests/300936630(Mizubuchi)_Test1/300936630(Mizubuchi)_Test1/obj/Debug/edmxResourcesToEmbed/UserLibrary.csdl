@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AMSModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Account">
+    <Key>
+      <PropertyRef Name="AccountNo" />
+    </Key>
+    <Property Name="AccountNo" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ClientID" Type="String" MaxLength="16" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="AccountType" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Balance" Type="Decimal" Precision="18" Scale="0" Nullable="false" />
+    <NavigationProperty Name="Client" Relationship="Self.FK_Account_Client" FromRole="Account" ToRole="Client" />
+    <NavigationProperty Name="TransactionHistories" Relationship="Self.FK_TransactionHistory_Account" FromRole="Account" ToRole="TransactionHistory" />
+  </EntityType>
+  <EntityType Name="Client">
+    <Key>
+      <PropertyRef Name="AccessID" />
+    </Key>
+    <Property Name="AccessID" Type="String" MaxLength="16" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Firstname" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Lastname" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Middlename" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="Postaladdr" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Phone" Type="String" MaxLength="13" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Accounts" Relationship="Self.FK_Account_Client" FromRole="Client" ToRole="Account" />
+    <NavigationProperty Name="Login" Relationship="Self.FK_Login_Client" FromRole="Client" ToRole="Login" />
+  </EntityType>
+  <EntityType Name="Login">
+    <Key>
+      <PropertyRef Name="AccessID" />
+    </Key>
+    <Property Name="AccessID" Type="String" MaxLength="16" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="12" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Client" Relationship="Self.FK_Login_Client" FromRole="Login" ToRole="Client" />
+  </EntityType>
+  <EntityType Name="TransactionHistory">
+    <Key>
+      <PropertyRef Name="AccountNo" />
+      <PropertyRef Name="TransactionTime" />
+    </Key>
+    <Property Name="AccountNo" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Amount" Type="Decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="TransactionTime" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="BranchID" Type="Int32" />
+    <NavigationProperty Name="Account" Relationship="Self.FK_TransactionHistory_Account" FromRole="TransactionHistory" ToRole="Account" />
+  </EntityType>
+  <Association Name="FK_Account_Client">
+    <End Role="Client" Type="Self.Client" Multiplicity="1" />
+    <End Role="Account" Type="Self.Account" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Client">
+        <PropertyRef Name="AccessID" />
+      </Principal>
+      <Dependent Role="Account">
+        <PropertyRef Name="ClientID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TransactionHistory_Account">
+    <End Role="Account" Type="Self.Account" Multiplicity="1" />
+    <End Role="TransactionHistory" Type="Self.TransactionHistory" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Account">
+        <PropertyRef Name="AccountNo" />
+      </Principal>
+      <Dependent Role="TransactionHistory">
+        <PropertyRef Name="AccountNo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Login_Client">
+    <End Role="Client" Type="Self.Client" Multiplicity="1" />
+    <End Role="Login" Type="Self.Login" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Client">
+        <PropertyRef Name="AccessID" />
+      </Principal>
+      <Dependent Role="Login">
+        <PropertyRef Name="AccessID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="AMSEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Accounts" EntityType="Self.Account" />
+    <EntitySet Name="Clients" EntityType="Self.Client" />
+    <EntitySet Name="Logins" EntityType="Self.Login" />
+    <EntitySet Name="TransactionHistories" EntityType="Self.TransactionHistory" />
+    <AssociationSet Name="FK_Account_Client" Association="Self.FK_Account_Client">
+      <End Role="Client" EntitySet="Clients" />
+      <End Role="Account" EntitySet="Accounts" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TransactionHistory_Account" Association="Self.FK_TransactionHistory_Account">
+      <End Role="Account" EntitySet="Accounts" />
+      <End Role="TransactionHistory" EntitySet="TransactionHistories" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Login_Client" Association="Self.FK_Login_Client">
+      <End Role="Client" EntitySet="Clients" />
+      <End Role="Login" EntitySet="Logins" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

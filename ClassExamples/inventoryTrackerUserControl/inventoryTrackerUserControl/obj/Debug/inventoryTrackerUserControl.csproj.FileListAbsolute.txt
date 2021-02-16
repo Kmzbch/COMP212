@@ -1,0 +1,12 @@
+C:\Users\Kei\source\repos\inventoryTrackerUserControl\inventoryTrackerUserControl\bin\Debug\inventoryTrackerUserControl.dll
+C:\Users\Kei\source\repos\inventoryTrackerUserControl\inventoryTrackerUserControl\bin\Debug\inventoryTrackerUserControl.pdb
+C:\Users\Kei\source\repos\inventoryTrackerUserControl\inventoryTrackerUserControl\obj\Debug\UserControl1.g.cs
+C:\Users\Kei\source\repos\inventoryTrackerUserControl\inventoryTrackerUserControl\obj\Debug\inventoryTrackerUserControl_MarkupCompile.cache
+C:\Users\Kei\source\repos\inventoryTrackerUserControl\inventoryTrackerUserControl\obj\Debug\inventoryTrackerUserControl_MarkupCompile.lref
+C:\Users\Kei\source\repos\inventoryTrackerUserControl\inventoryTrackerUserControl\obj\Debug\UserControl1.baml
+C:\Users\Kei\source\repos\inventoryTrackerUserControl\inventoryTrackerUserControl\obj\Debug\inventoryTrackerUserControl.g.resources
+C:\Users\Kei\source\repos\inventoryTrackerUserControl\inventoryTrackerUserControl\obj\Debug\inventoryTrackerUserControl.Properties.Resources.resources
+C:\Users\Kei\source\repos\inventoryTrackerUserControl\inventoryTrackerUserControl\obj\Debug\inventoryTrackerUserControl.csproj.GenerateResource.cache
+C:\Users\Kei\source\repos\inventoryTrackerUserControl\inventoryTrackerUserControl\obj\Debug\inventoryTrackerUserControl.csproj.CoreCompileInputs.cache
+C:\Users\Kei\source\repos\inventoryTrackerUserControl\inventoryTrackerUserControl\obj\Debug\inventoryTrackerUserControl.dll
+C:\Users\Kei\source\repos\inventoryTrackerUserControl\inventoryTrackerUserControl\obj\Debug\inventoryTrackerUserControl.pdb

@@ -1,0 +1,227 @@
+﻿<Window x:Class="_300936630_mizubuchi__ASS2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_300936630_mizubuchi__ASS2"
+        mc:Ignorable="d"
+        Title="MainWindow"
+        Height="450"
+        Width="800">
+    <Window.Resources>
+        <CollectionViewSource x:Key="foodItemViewSource"
+                              d:DesignSource="{d:DesignInstance {x:Type local:FoodItem}, CreateList=True}" />
+    </Window.Resources>
+
+    <Grid DataContext="{StaticResource foodItemViewSource}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="203*" />
+            <RowDefinition Height="220*" />
+        </Grid.RowDefinitions>
+        <Label x:Name="lblBeverage"
+               Content="Beverage"
+               HorizontalAlignment="Left"
+               Margin="26,39,0,0"
+               VerticalAlignment="Top" />
+        <ComboBox x:Name="cbxBeverage"
+                  HorizontalAlignment="Left"
+                  Margin="106,39,0,0"
+                  VerticalAlignment="Top"
+                  Width="166">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding Name}" />
+                        <TextBlock Text="  " />
+                        <TextBlock Text="{Binding Price, StringFormat={}{0:C2}}" />
+                    </StackPanel>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+        <Label x:Name="lblAppetizer"
+               Content="Appetizer"
+               HorizontalAlignment="Left"
+               Margin="26,97,0,0"
+               VerticalAlignment="Top" />
+        <ComboBox x:Name="cbxAppetizer"
+                  HorizontalAlignment="Left"
+                  Margin="106,100,0,0"
+                  VerticalAlignment="Top"
+                  Width="166">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding Name}" />
+                        <TextBlock Text="  " />
+                        <TextBlock Text="{Binding Price, StringFormat={}{0:C2}}" />
+                    </StackPanel>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+
+        </ComboBox>
+        <Label x:Name="lblMainCourse"
+               Content="Main Course"
+               HorizontalAlignment="Right"
+               Margin="0,36,409,0"
+               VerticalAlignment="Top"
+               RenderTransformOrigin="0.503,0.308" />
+        <ComboBox x:Name="cbxMainCourse"
+                  Margin="422,40,207,0"
+                  VerticalAlignment="Top">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding Name}" />
+                        <TextBlock Text="  " />
+                        <TextBlock Text="{Binding Price, StringFormat={}{0:C2}}" />
+                    </StackPanel>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+        <Label x:Name="lblDessert"
+               Content="Dessert"
+               HorizontalAlignment="Left"
+               Margin="336,96,0,0"
+               VerticalAlignment="Top"
+               RenderTransformOrigin="0.093,0.598" />
+        <ComboBox x:Name="cbxDessert"
+                  HorizontalAlignment="Left"
+                  Margin="422,101,0,0"
+                  VerticalAlignment="Top"
+                  Width="166">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding Name}" />
+                        <TextBlock Text="  " />
+                        <TextBlock Text="{Binding Price, StringFormat={}{0:C2}}" />
+                    </StackPanel>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+        <Button x:Name="btnRemoveOrderedItem"
+                Content="Remove Ordered Item"
+                HorizontalAlignment="Right"
+                Margin="0,39,24,126"
+                Width="140"
+                Height="38"
+                RenderTransformOrigin="0.5,0.553" />
+        <Button x:Name="btnClearAll"
+                Content="Clear All"
+                Margin="631,0,0,65"
+                HorizontalAlignment="Left"
+                Width="140"
+                Height="38"
+                VerticalAlignment="Bottom"
+                RenderTransformOrigin="0.55,-1.083"/>
+        <TextBox Name="txtTotal"
+                 TextAlignment="right"
+                 HorizontalAlignment="Left"
+                 Height="22"
+                 Margin="692,58,0,0"
+                 TextWrapping="Wrap"
+                 Text="0"
+                 VerticalAlignment="Top"
+                 Width="78"
+                 Grid.Row="1"
+                 IsReadOnly="true"                 
+                 />
+        <TextBox Name="txtSubTotal"
+                 Text="0"
+                 HorizontalAlignment="Left"
+                 Height="24"
+                 Margin="693,175,0,0"
+                 TextWrapping="Wrap"
+                 TextAlignment="right"
+                 VerticalAlignment="Top"
+                 Width="78"
+                 IsReadOnly="true"/>
+        <TextBox Name="txtTax"
+                 Text="0"
+                 TextAlignment="right"
+                 HorizontalAlignment="Left"
+                 Height="24"
+                 Margin="692,16,0,0"
+                 Grid.Row="1"
+                 TextWrapping="Wrap"
+                 VerticalAlignment="Top"
+                 Width="78"
+                 IsReadOnly="true"/>
+        
+        
+        
+        <DataGrid x:Name="dgOrderList"
+                  CanUserAddRows="False"
+                  SelectionMode="Single"
+                  AutoGenerateColumns="False"
+                  EnableRowVirtualization="True"
+                  ItemsSource="{Binding}"
+                  Margin="26,152,207,60.5"
+                  Grid.RowSpan="2"
+                  RowDetailsVisibilityMode="VisibleWhenSelected">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="nameColumn"
+                                    Binding="{Binding Name}"
+                                    Header="Name"
+                                    Width="auto"
+                                    IsReadOnly="true" />
+                <DataGridTextColumn x:Name="categoryColumn"
+                                    Binding="{Binding Category}"
+                                    Header="Category"
+                                    Width="auto"
+                                    IsReadOnly="true" />
+                <DataGridTextColumn x:Name="priceColumn"
+                                    Binding="{Binding Price}"
+                                    Header="Price"
+                                    Width="auto"
+                                    IsReadOnly="true" />
+                <DataGridTextColumn x:Name="qtyColumn"
+                                    Binding="{Binding Quantity, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                                    Header="Qty"
+                                    Width="auto"
+                                    IsReadOnly="false" />
+
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label Content="SubTotal"
+               HorizontalAlignment="Left"
+               Margin="630,175,0,0"
+               VerticalAlignment="Top"
+               RenderTransformOrigin="0.447,-1.7"
+               Height="34"
+               Grid.RowSpan="2"/>
+        <Label Content="Tax"
+               HorizontalAlignment="Left"
+               Margin="659,12,0,0"
+               Grid.Row="1"
+               VerticalAlignment="Top" />
+        <Label Content="Total"
+               HorizontalAlignment="Left"
+               Margin="649,54,0,0"
+               Grid.Row="1"
+               VerticalAlignment="Top"
+               RenderTransformOrigin="-0.129,0.192" />
+        <Button x:Name="btnExit"
+                Content="Exit"
+                HorizontalAlignment="Left"
+                Margin="631,121,0,0"
+                VerticalAlignment="Top"
+                Width="140"
+                Height="38"
+                Grid.Row="1"/>
+        <StatusBar VerticalAlignment="Bottom"
+                   Grid.Row="1">
+            <StatusBarItem>
+                <Label Content="Kei Mizubuchi (300936630) - Canadian Food Service" />
+            </StatusBarItem>
+            <Button x:Name="btnImage"
+                    Height="20"
+                    Width="80"
+                    HorizontalAlignment="Right"
+                    >
+                <Image Source=".\Images\logo.png" />
+            </Button>
+        </StatusBar>
+    </Grid>
+
+</Window>

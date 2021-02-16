@@ -1,0 +1,15 @@
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\Examples4Week3\bin\Debug\Examples4Week3.exe.config
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\Examples4Week3\bin\Debug\Examples4Week3.exe
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\Examples4Week3\bin\Debug\Examples4Week3.pdb
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\Examples4Week3\obj\Debug\Examples4Week3.csprojAssemblyReference.cache
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\Examples4Week3\obj\Debug\MainWindow.g.cs
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\Examples4Week3\obj\Debug\App.g.cs
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\Examples4Week3\obj\Debug\Examples4Week3_MarkupCompile.cache
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\Examples4Week3\obj\Debug\Examples4Week3_MarkupCompile.lref
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\Examples4Week3\obj\Debug\MainWindow.baml
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\Examples4Week3\obj\Debug\Examples4Week3.g.resources
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\Examples4Week3\obj\Debug\Examples4Week3.Properties.Resources.resources
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\Examples4Week3\obj\Debug\Examples4Week3.csproj.GenerateResource.cache
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\Examples4Week3\obj\Debug\Examples4Week3.csproj.CoreCompileInputs.cache
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\Examples4Week3\obj\Debug\Examples4Week3.exe
+C:\Users\Kei\source\repos\Examples4Week3.DatabindingSec1\Examples4Week3\obj\Debug\Examples4Week3.pdb
